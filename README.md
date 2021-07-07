@@ -1,1 +1,1 @@
-# Bear Classifier voila app demo
+# Bird Classifier voila app demo
