@@ -1,1 +1,1 @@
-# Bird Classifier voila app demo
+# Bird Classifier Voila app
